@@ -1,2 +1,0 @@
-# threejshaupt
-Created with CodeSandbox
